@@ -8,4 +8,5 @@ This is a python programe for analyzing any csv file and and analyze the data in
 Requirements-  
 Python 3  
 Pandas  
+Pandas-Profiling  
 And a data.csv(the data file)  
